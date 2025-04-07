@@ -1,0 +1,24 @@
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.61 minutes
+Accuracy: 98.74%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 128, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.42 minutes
+Accuracy: 98.60%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 32, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 3.07 minutes
+Accuracy: 99.09%
+-----------------------------------------------------
+Hyperparameters: {'model': 'lstm', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.27 minutes
+Accuracy: 84.44%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'sigmoid'}
+Training Time: 2.53 minutes
+Accuracy: 98.87%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'tanh'}
+Training Time: 2.52 minutes
+Accuracy: 98.96%
+-----------------------------------------------------

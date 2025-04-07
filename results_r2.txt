@@ -1,0 +1,36 @@
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.66 minutes
+Accuracy: 98.89%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 128, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.33 minutes
+Accuracy: 98.68%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 32, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 3.13 minutes
+Accuracy: 99.21%
+-----------------------------------------------------
+Hyperparameters: {'model': 'lstm', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.30 minutes
+Accuracy: 95.13%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'sigmoid'}
+Training Time: 2.49 minutes
+Accuracy: 98.86%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'tanh'}
+Training Time: 2.53 minutes
+Accuracy: 98.91%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 64, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.75 minutes
+Accuracy: 99.18%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 128, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 2.49 minutes
+Accuracy: 99.01%
+-----------------------------------------------------
+Hyperparameters: {'model': 'cnn', 'dataset': 'mnist', 'batch_size': 32, 'learning_rate': 0.001, 'epochs': 20, 'activation_fn': 'relu'}
+Training Time: 3.29 minutes
+Accuracy: 99.17%
+-----------------------------------------------------

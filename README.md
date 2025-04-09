@@ -27,5 +27,5 @@ python main.py --model cnn --dataset mnist --epochs 20 --batch_size 64
 ```
 
 ```
-python resnet_bonus.py --epochs 100 --batch_size 128
+python resnet_bonus.py 
 ```

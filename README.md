@@ -14,7 +14,7 @@ This repository contains PyTorch implementations of:
 ├── models.py             # Model selector for CNN, LSTM, ResNet
 ├── organized_main.py     # A cleaner version of main.py 
 ├── resnet_bonus.py       # Bonus: ResNet-18 for CIFAR-100
-├── report/               # Report write up, in zip file, unzip to edit the latex 
+├── myra_lianhao_homework3.zip   # Report write up, in zip file, unzip to edit the latex 
 ├── results/              # Output logs
 ├── run.sh                # Shell script to run training
 
